@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+#title{
+	color:rgb(21,129,132);
+}
+.dynamic_content{
+	padding:3% 0 0 3%;
+}
+.form_element{
+	display:none;
+}
+.visible{
+	display:block;
+}
